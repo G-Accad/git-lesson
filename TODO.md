@@ -1,4 +1,4 @@
-#ToDo:
--Attend lesson 1
--Continue work
--Go to class
+# ToDo:
+- Attend lesson 1
+- Continue work
+- Go to class
